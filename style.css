@@ -1,0 +1,43 @@
+ 
+.standout{
+font-size:1.5em;
+font-weight: bold;
+color: #923ff7;
+background-color: #ffebee;
+padding: 10px;
+border-left: 5px solid #d32f2f;
+margin: 20px 0;
+}
+
+.h2_standout
+{
+font-size:1.5em;
+font-weight: bold;
+color: #f3ff6d;
+background-color: #8eb6ff69;
+padding: 10px;
+border-left: 5px solid #d32f2f;
+margin: 20px 0;
+}
+
+p:hover{background: gray;}
+
+.image1:hover{
+    border-radius: 50%;
+}
+
+.image2:hover{
+    border-radius: 20px;
+}
+
+.image3{
+    opacity:0.8;
+}
+
+.image4:hover{
+    filter: grayscale(70%);
+}
+
+.image5:hover{
+    filter: blur(5px);
+}
